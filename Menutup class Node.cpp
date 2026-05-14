@@ -12,3 +12,5 @@ Node()
 {
     next = NULL;
 }
+
+};
