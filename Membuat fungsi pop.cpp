@@ -35,3 +35,5 @@ bool isEmpty()
 {
     return top == NULL;
 }
+void pop()
+{
