@@ -43,3 +43,5 @@ void pop()
 }
 Node *temp = top;
 top = top->next;
+cout << "Popped value: " << temp->data << endl;
+delete temp;
