@@ -54,3 +54,9 @@ while (current != NULL)
     cout << current->data << " " << endl;
     current = current->next;
 }
+int main()
+{
+    stack stack;
+
+    int choice = 0;
+    int value;
